@@ -1,0 +1,229 @@
+
+/* nav */
+.navbar-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 38px;
+    color: #9CB09A;
+
+}
+/* Tutup nav */
+
+
+/* booking */
+
+.booking{
+    margin-left: 60px;
+    margin-top: 107px;
+}
+
+.head{
+    font-family: 'Nunito';
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+}
+
+.data{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+
+.name{
+    width: 215px;
+    height: 28px;
+    background: #FDFDFD;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+.mail{
+    width: 277px;
+    height: 28px;
+    background: #FDFDFD;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+.form-label{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+}
+
+.fulladdress{
+    width: 367px;
+    height: 28px;
+    background: #FDFDFD;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+.form-select{
+    width: 200px;
+    height: 32px;
+    background: #FDFDFD;
+    border: 1px solid #000000;
+    border-radius: 4px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: #000000;
+}
+
+.back{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #8EA58C;
+}
+
+.grs-horizontal{
+    width: 950px;
+    height: 0px;
+    border: 2px solid #8EA58C;
+    transform: rotate(90deg);
+    margin-top: 500px;
+}
+
+.produk{
+    margin-right: 60px;
+    margin-top: 107px;
+}
+
+.produk-name{
+    margin-top: 26px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+.fee{
+    margin-top: 30px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    width: 584px;
+    height: 216px;
+    background: #FFFFFF;
+    border: 1px solid #366A0C;
+}
+
+.fee h5{
+    margin-left: 30px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.fee span{
+    margin-right: 30px;
+}
+
+.grs{
+    margin-top: 20px;
+    width: 521px;
+    height: 0px;
+    border: 1px solid #8EA58C;
+}
+
+.btn-submit{
+    width: 155px;
+    height: 43px;
+    background: #8EA58C;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-left: 200px;
+}
+
+/* tutup booking */
+
+
+/* Footer */
+
+
+.kaki{
+    background: #A2AEA1;
+    margin-top: 595px;
+    padding-bottom: 50px;
+}
+
+.foot{
+    padding-top: 60px;
+    padding-left: 63px;
+}
+
+.footer-brand{
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.foot-head p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.footer-item{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.footer-link a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.copyright{
+   background-color: #C0C9C0; 
+}
+
+
+.copyright{
+    width: 1440px;
+    height: 45px;
+
+    background: #C0C9C0;
+    border-top: 1px solid #000000;
+}
+
+.copyright p {
+    margin-top:  9px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+/* Tutup Footer */

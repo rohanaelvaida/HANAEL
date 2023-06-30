@@ -1,0 +1,445 @@
+/* navbar */
+
+.navbar {
+    background: #9CB09A;
+}
+
+.navbar-brand{
+    margin-left: 55px;
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 27px;
+    color: #FFFFFF;
+
+}
+
+.nav-link.active{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #366A0C;
+
+}
+
+.nav-item{
+    margin-left: 8px;
+}
+
+.nav-link{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.nav-link-search{
+    margin-left: 6px;
+    margin-top: 6px;
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 9px;
+}
+
+.nav-link-search input{
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: 1px solid #9CB09A;
+    border: none;
+    outline: none;
+    flex: 1;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #161616;
+}
+
+.fa-solid {
+    background-color: #FFFFFF;
+    padding: 5px 4px;
+    align-self: center;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+.nav-link-cart img{
+    margin-left: 12px;
+    margin-top: 3px;
+}
+
+.nav-link-user img{
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-right: 55px;
+}
+
+.nav-item a:hover{
+    color: #366A0C;
+}
+
+.navbar-brand:hover{
+    color: #FFFFFF;
+}
+
+/* Tutup navbar */
+
+/* Hero-section */
+
+.section h2{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    color: #8EA58C;
+}
+
+.section p{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    color: #6B6B6B;
+}
+
+.btn-primary{
+    margin-top: 10px;
+    width: 182px;
+    height: 50px;
+    background: linear-gradient(116.62deg, #8EA58C -40.17%, #A2AEA1 157.77%);
+    box-shadow: -3px 5px 0px #3E423D;
+    border-radius: 9px;
+
+    font-family: 'Mont';
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    transition: all 0.2s ease;
+}
+
+.btn-primary:hover{
+    color: #161715;
+}
+
+.seksion{
+    margin-left: 60px;
+    margin-top: 72px;
+}
+
+.section{
+    margin-left: 50px;
+}
+
+.pindah{
+    margin-left: -28px;
+}
+
+/* Tutup Hero-section */
+
+/* Testimoni */
+
+.testimoni{
+    margin-top: 68px;
+    margin-left: 70px;
+}
+
+.test{
+    font-family: 'Merriweather';
+    font-weight: 900;
+    font-size: 38px;
+    color: #000000;
+}
+
+.garis-vertikal{
+    width: 60px;
+    height: 0px;
+    margin-top: 35px;
+
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+
+.test-kata{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #848484;
+    margin-top: 15px;
+}
+
+.testimoni-jenis h5{
+    margin-top: 12px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+
+.testimoni-jenis p{
+    margin-top: -5px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #7A7A7A;
+}
+
+/* Tutup Testimoni */
+
+/* Best Seller */
+
+.best{
+    margin-top: 100px;
+    margin-left: 68px;
+}
+
+.h-best{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    color: #000000;
+}
+
+.garis-vt{
+    border: 1px solid #000000;
+    margin-left: -20px;
+}
+
+.sell {
+    margin-left: 65px;
+}
+
+.bs-product h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+
+}
+
+.bs-product p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+
+.bs-product h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.bs-product  h5 span{
+    font-size: 12px;
+}
+
+.kecil p{
+    font-size: 12px;
+}
+
+.bs-product img{
+    transition: all 0.2s ease;
+}
+
+
+.sell{
+    margin-top: 20px;
+}
+
+.see-more{
+    margin-left: 1250px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #B7B7B7;
+}
+
+.see-more:hover{
+    color: #366A0C;
+}
+
+/* TutupBest Seller */
+
+/* New Arrival */
+
+.h-new{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    color: #000000;
+}
+
+.new{
+    margin-top: 100px;
+    margin-left: 68px;
+}
+
+.na-product h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+
+}
+
+.na-product p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+
+.na-product h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.na-product  h5 span{
+    font-size: 12px;
+}
+
+.arrival{
+    margin-top: 35px;
+    margin-left: 125px;
+}
+
+.kecil-2 p{
+    font-size: 12px;
+}
+
+
+
+/* Tutup New Arrival */
+
+/* Categories */
+
+.h-categories{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    color: #000000;
+}
+
+.kategori{
+    margin-top: 100px;
+    margin-left: 68px;
+}
+
+.ct-img{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.ct-thumbnail{
+    transition: all 0.2s ease;
+}
+
+.ct-thumbnail:hover {
+    transform: scale(1.1);
+}
+
+.tengah{
+    margin-left: 90px;
+}
+
+/* Tutup Categories */
+
+/* Footer */
+
+
+.kaki{
+    background: #A2AEA1;
+    margin-top: 55px;
+    padding-bottom: 50px;
+}
+
+.foot{
+    padding-top: 60px;
+    padding-left: 63px;
+}
+
+.footer-brand{
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.foot-head p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.footer-item{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.footer-link a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.copyright{
+   background-color: #C0C9C0; 
+}
+
+
+.copyright{
+    width: 1440px;
+    height: 45px;
+
+    background: #C0C9C0;
+    border-top: 1px solid #000000;
+}
+
+.copyright p {
+    margin-top:  9px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+/* Tutup Footer */

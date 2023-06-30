@@ -1,0 +1,378 @@
+/* navbar */
+
+.navbar {
+    background: #9CB09A;
+}
+
+.navbar-brand{
+    margin-left: 55px;
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 27px;
+    color: #FFFFFF;
+
+}
+
+.nav-link.active{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #366A0C;
+
+}
+
+.nav-item{
+    margin-left: 8px;
+}
+
+.nav-link{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.nav-link-search{
+    margin-left: 6px;
+    margin-top: 6px;
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 9px;
+}
+
+.nav-link-search input{
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: 1px solid #9CB09A;
+    border: none;
+    outline: none;
+    flex: 1;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #161616;
+}
+
+.fa-solid {
+    background-color: #FFFFFF;
+    padding: 5px 4px;
+    align-self: center;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+.nav-link-cart img{
+    margin-left: 12px;
+    margin-top: 3px;
+}
+
+.nav-link-user img{
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-right: 55px;
+}
+
+.nav-item a:hover{
+    color: #366A0C;
+}
+
+.navbar-brand:hover{
+    color: #FFFFFF;
+}
+
+/* Tutup navbar */
+
+.breadcrumb{
+    margin-left: 60px;
+    background-color: white;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #989797;
+}
+
+.breadcrumb a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #989797;
+}
+
+.Detail{
+    margin-left: 60px;
+    margin-top: 64px;
+}
+
+.product-name{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    color: #000000;
+}
+
+.view-kecik{
+    margin-left: -160px;
+}
+
+.product-harga {
+    margin-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #488419;
+
+}
+
+.product-harga span{
+    font-size: 24px;
+}
+
+.ship{
+    margin-top: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+
+}
+
+.offer{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #848484;
+}
+
+.btn-primary{
+    margin-top: 40px;
+    width: 584px;
+    height: 42px;
+    background: #488419;
+    border-radius: 5px;
+
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #FFFFFF;
+    transition: all 0.2s ease-in-out;
+    outline: none;
+    border: 0;
+}
+
+.btn-primary:hover{
+    background-color: #488419;
+    filter: drop-shadow(-2px 4px 5px rgba(0, 0, 0, 0.38));
+}
+
+.grs-horizontal{
+    margin-top: 25px;
+    margin-left: 0px;
+    width: 583px;
+    height: 0px;
+
+    border: 1px solid #000000;
+}
+
+.wishlist{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+    display: flex;
+}
+
+.wishlist i{
+    font-size: 25px;
+    transition: all 0.2s ease;
+}
+
+.wishlist i:hover{
+    cursor: pointer;
+    font-family: fontAwesome;
+    color: crimson;
+}
+
+.description h5{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+
+.description p{
+    width: 584px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.rinci h5{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+}
+
+.rinci li{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: #000000;
+}
+
+.rinci span{
+    padding-left: 20px;
+}
+
+/* Tutup Product detail */
+
+/* You may like */
+
+.maylike{
+    margin-left: 68px;
+}
+
+.you-head{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+.garis-vt{
+    border: 1px solid #000000;
+    margin-left: -20px;
+}
+
+.na-product h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+
+}
+
+.na-product p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+
+.na-product h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.na-product  h5 span{
+    font-size: 12px;
+}
+
+.product-maylike{
+    margin-top: 35px;
+    margin-left: 135px;
+}
+
+.kecil-2 p{
+    font-size: 12px;
+}
+/* Tutup You may like */
+
+/* Footer */
+
+
+.kaki{
+    background: #A2AEA1;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+.foot{
+    padding-top: 60px;
+    padding-left: 63px;
+}
+
+.footer-brand{
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.foot-head p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.footer-item{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.footer-link a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.copyright{
+   background-color: #C0C9C0; 
+}
+
+
+.copyright{
+    width: 1440px;
+    height: 45px;
+
+    background: #C0C9C0;
+    border-top: 1px solid #000000;
+}
+
+.copyright p {
+    margin-top:  9px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+/* Tutup Footer */
